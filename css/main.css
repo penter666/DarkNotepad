@@ -1,0 +1,60 @@
+/*! HTML5 Boilerplate v7.2.0 | MIT License | https://html5boilerplate.com/ */
+
+/* main.css 2.0.0 | MIT License | https://github.com/h5bp/main.css#readme */
+/*
+ * What follows is the result of much research on cross-browser styling.
+ * Credit left inline and big thanks to Nicolas Gallagher, Jonathan Neal,
+ * Kroc Camen, and the H5BP dev community and team.
+ */
+
+/* ==========================================================================
+   Base styles: opinionated defaults
+   ========================================================================== */
+
+
+input:focus {
+  outline: none;
+}
+select:focus {
+  outline: none;
+}
+textarea:focus {
+  outline: none;
+}
+button:focus {
+  outline: none;
+}
+
+
+
+textarea
+{
+  font-family: "Droid Serif", serif;
+  font-size: 28px;
+  text-align: left;
+  float: left;
+  position: relative;
+  left: 30%;
+  padding-top: 5%;
+}
+
+input, select, textarea{
+  color: #ffffff;
+}
+
+body{
+  background-color: #1a1a1a;
+}
+html {
+  overflow:   scroll;
+  color: #1a1a1a;
+  font-size: 1em;
+}
+
+::-webkit-scrollbar {
+  width: 0px;
+  background: transparent; /* make scrollbar transparent */
+}
+
+
+

@@ -38,37 +38,38 @@ textarea
   padding-top: 5%;
 }
 
-input, select, textarea{
+textarea{
   color: #ffffff;
 }
 
 body{
-  background-color: #1a1a1a;
+  background-color: #1a1a1a !important;
 }
 html {
   overflow:   scroll;
-  color: #1a1a1a;
+  color: #1a1a1a !important;
   font-size: 1em;
 }
 
 h1{
-	color: #1a1a1a;
+	color: #1a1a1a !important;
 	align-items: center;
 	user-select: none;
 
 }
 
 h2{
-	color: #1a1a1a;
+	color: #1a1a1a !important;
 	align-items: center;
 	user-select: none;
 }
 
 p{
-	color: #1a1a1a;
+	color: #1a1a1a !important;
 	align-items: center;
 	user-select: none;
 }
+
 
 ::-webkit-scrollbar {
   width: 0px;

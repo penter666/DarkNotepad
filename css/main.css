@@ -51,6 +51,25 @@ html {
   font-size: 1em;
 }
 
+h1{
+	color: #1a1a1a;
+	align-items: center;
+	user-select: none;
+
+}
+
+h2{
+	color: #1a1a1a;
+	align-items: center;
+	user-select: none;
+}
+
+p{
+	color: #1a1a1a;
+	align-items: center;
+	user-select: none;
+}
+
 ::-webkit-scrollbar {
   width: 0px;
   background: transparent; /* make scrollbar transparent */
